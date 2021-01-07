@@ -34,14 +34,18 @@ html {
 body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
+  color: white;
   font-size: 16px;
   line-height: 1.5;
+  background: #333;
 }
 #app {
   box-sizing: border-box;
   width: 500px;
   padding: 0 20px 20px;
   margin: 0 auto;
+  background: #444;
+  min-height: 100vh;
 }
 hr {
   box-sizing: content-box;
