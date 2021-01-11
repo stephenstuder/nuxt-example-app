@@ -25,7 +25,7 @@ export default {
       .catch((e) => {
         error({
           statusCode: 503,
-          message: 'Opps, We Bonked. Please Try Again.',
+          message: 'Oops, We Bonked. Please Try Again.',
         })
       })
   },
