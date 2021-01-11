@@ -14,8 +14,8 @@
 import EventCard from '~/components/EventCard.vue'
 export default {
   components: { EventCard },
-  asyncData({ $axios, error }) {
-    return $axios
+  async asyncData({ $axios, error }) {
+    await $axios
       .get('http://localhost:3000/events')
       .then((response) => {
         return {
