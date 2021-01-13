@@ -1,6 +1,6 @@
 # LEARNING NUXT
 
-Course by the Vue Mastery team to learn the ins and outs of Nuxt! Some topics covered include the file path routing, seo meta tags, understanding SSR and hydration, static projects and more.
+Course created by the Vue Mastery team to learn the ins and outs of Nuxt. Some topics covered include the file path routing, seo meta tags, understanding SSR and hydration, static projects and more.
 
 ## Build Setup
 
